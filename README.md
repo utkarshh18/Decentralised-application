@@ -1,2 +1,2 @@
 # Decentralised-application
-a basic decentralized application using blockchain
+a basic decentralized app using blockchain concept application
